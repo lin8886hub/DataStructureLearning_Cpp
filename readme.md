@@ -19,7 +19,7 @@
 
 ## C语言和Cpp的交叉使用
     
-1. <string>与sscanf 、fprintf的使用，<stream>与FILE*
+1. `<string>`与`sscanf` 、`fprintf`的使用，`<stream>`与`FILE*`
     文件在[CppTime](https://github.com/lin8886hub/DataStructureLearning_Cpp/commit/886ac93d81b5d0e7d3ae5eafc01b4ebbdab5720d)
 
 
